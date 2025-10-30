@@ -1,0 +1,4 @@
+llama-index
+langgraph
+huggingface_hub
+python-dotenv

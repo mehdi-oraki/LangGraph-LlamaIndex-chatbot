@@ -1,5 +1,15 @@
 <h1 align="center">LangGraph & LlamaIndex Chatbot Agent</h1>
 
+## Table of Contents
+- [1. Overview](#1-overview)
+- [2. Folder Structure](#2-folder-structure)
+- [3. Setup](#3-setup)
+  - [3.1. Prerequisites](#31-prerequisites)
+  - [3.2. Installation](#32-installation)
+- [4. Usage](#4-usage)
+- [5. How it Works](#5-how-it-works)
+- [6. Notes](#6-notes)
+
 # 1. Overview
 This project provides a simple, beginner-friendly chatbot agent that combines the LangGraph framework with LlamaIndex for LLM-powered text generation via a local HuggingFace model. The chatbot receives a user question, routes it through a LangGraph agent, which delegates to a LlamaIndex-powered node that produces the answer.
 

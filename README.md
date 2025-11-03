@@ -11,7 +11,7 @@
 - [6. Notes](#6-notes)
 
 # 1. Overview
-This project provides a simple, beginner-friendly chatbot agent that combines the LangGraph framework with LlamaIndex for LLM-powered text generation via a local HuggingFace model. The chatbot receives a user question, routes it through a LangGraph agent, which delegates to a LlamaIndex-powered node that produces the answer.
+This project provides a user-friendly chatbot agent that combines the LangGraph framework with LlamaIndex for LLM-powered text generation via a local HuggingFace model. The chatbot receives a user question, routes it through a LangGraph agent, which delegates to a LlamaIndex-powered node that produces the answer.
 
 # 2. Folder Structure
 - `chatbot_agent.py` — Main Python script combining LangGraph agent and LlamaIndex node for Q&A.
